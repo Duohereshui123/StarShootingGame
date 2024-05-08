@@ -1,0 +1,16 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+//********************************
+// 可脚本化对象
+// Author : WU YU
+//********************************
+
+#ROOTNAMESPACEBEGIN#
+[CreateAssetMenu(menuName = (""),fileName = (""))]
+public class #SCRIPTNAME# : ScriptableObject
+{
+	#NOTRIM#
+}
+#ROOTNAMESPACEEND#

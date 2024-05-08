@@ -1,0 +1,15 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+//********************************
+// 无继承 C Sharp类
+// Author : WU YU
+//********************************
+
+#ROOTNAMESPACEBEGIN#
+public class #SCRIPTNAME#
+{
+	#NOTRIM#
+}
+#ROOTNAMESPACEEND#

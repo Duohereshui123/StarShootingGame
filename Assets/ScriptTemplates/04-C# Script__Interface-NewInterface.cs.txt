@@ -1,0 +1,15 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+//********************************
+// 接口
+// Author : WU YU
+//********************************
+
+#ROOTNAMESPACEBEGIN#
+public interface I#SCRIPTNAME#
+{
+	#NOTRIM#
+}
+#ROOTNAMESPACEEND#
